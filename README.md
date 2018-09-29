@@ -1,6 +1,6 @@
 # Conversao-de-Temperaturas
 
-## Desenvolva um algoritmo que faça conversão de temperaturas:
+## Desenvolva um algoritmo em C que faça conversão de temperaturas:
 - 1 – celsius para Farenheit
 - 2 – farenheit para celsius
 
