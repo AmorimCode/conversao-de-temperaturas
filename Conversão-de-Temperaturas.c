@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include<locale.h>
 
-//Tiago Amorim
+//TiagoAFDS
 
 float n;//variavel global
 float f_c (float n)
