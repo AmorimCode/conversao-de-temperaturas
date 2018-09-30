@@ -25,3 +25,5 @@ Default:
 Break;
 }
 ```
+
+[Clique aqui e veja o Código em C!](https://github.com/TiagoAFDS/Conversao-de-Temperaturas/blob/master/Convers%C3%A3o-de-Temperaturas.c)
