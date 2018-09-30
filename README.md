@@ -1,8 +1,8 @@
 # Conversao-de-Temperaturas
 
 ## Desenvolva um algoritmo em C que faça conversão de temperaturas:
-- 1 – celsius para Farenheit
-- 2 – farenheit para celsius
+- 1 – Celsius para Farenheit.
+- 2 – Farenheit para Celsius.
 
 ##### Utilize o comando switch.
 ##### Transforme as duas tarefas indicadas no algoritmo em função.
